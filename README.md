@@ -6,3 +6,4 @@ Keys are Strings
 Data can be int, float,String,char, char[] 
 # IMGCONV.exe
 Converts Images to rgb222
+takes Source and Destination file as arguments.
